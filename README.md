@@ -13,6 +13,3 @@ The **Maintenance UI Database System** is a Python-based application designed to
 - **Python** (Core logic)  
 - **MySQL** (Database)  
 
-   ```sh
-   git clone https://github.com/your-username/maintenance-ui-db.git
-   cd maintenance-ui-db
